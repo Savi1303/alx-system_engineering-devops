@@ -1,2 +1,2 @@
-#@/bin/baah
-echo $((2#BINARY))
+#!/bin/baah
+echo $((2#BINARY)o)
